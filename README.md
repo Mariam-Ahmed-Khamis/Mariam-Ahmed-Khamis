@@ -32,10 +32,6 @@ Passionate about building scalable backend architectures, clean code, and intera
 ---
 
 ### 📈 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mariam-Ahmed-Khamis&show_icons=true&theme=neon&rank_icon=github&border_radius=10" alt="Mariam's Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariam-Ahmed-Khamis&layout=compact&theme=neon&border_radius=10" alt="Top Languages" height="180" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariam-Ahmed-Khamis&theme=neon&border_radius=10" alt="GitHub Streak" />
@@ -52,10 +48,11 @@ Passionate about building scalable backend architectures, clean code, and intera
     *   **Key Features:** Secure Authentication, Appointment Scheduling, and Full Doctor/User Management.
     *   **Tech:** ASP.NET Core Web API, SQL Server, JWT for Security.
 
-*   **✈️ [Travel Booking System](https://github.com/Mariam-Ahmed-Khamis/Travel_Booking_System):** 
-    A comprehensive digital platform for efficient trip reservation management.
+*   **✈️ [Travel Booking System](https://github.com/Mariam-Ahmed-Khamis/TravelBookingSystem):** 
+    A comprehensive digital platform for efficient trip reservation management, built with a focus on high-quality software engineering.
+    *   **Core Concepts:** Fully implemented **OOP Principles** (Inheritance, Polymorphism, and Abstraction) to ensure code reusability and maintainability.
     *   **Key Features:** Automated Payment handling, Cancellation logic, and real-time trip booking workflows.
-    *   **Tech:** C#, .NET Core, Entity Framework (Fluent API mapping).
+    *   **Tech:** C#.
 
 *   **📊 [ITI Examination System](https://github.com/Mariam-Ahmed-Khamis/Examination_System):** 
     A robust database management system featuring role-based access control and high-performance SQL storage.
@@ -71,4 +68,3 @@ Passionate about building scalable backend architectures, clean code, and intera
 <a href="https://mariam-ahmed-portfolio.lovable.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="30" width="40" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/assets/reads.svg" alt="Views" />
