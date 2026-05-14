@@ -1,16 +1,74 @@
-## Hi there 👋
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzZDI1YjM0YjM0YjM0YjM0YjM0YjM0YjM0YjM0YjM0YjM0JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/M9gbBd9nbJCZSM4T3V/giphy.gif" width="35"> Hi, I'm  Softwre Engineer Mariam Ahmed
 
-<!--
-**Mariam-Ahmed-Khamis/Mariam-Ahmed-Khamis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack .NET Developer | LLM Prompt Engineering | Trainee at IT
+Passionate about building scalable backend architectures, clean code, and interactive user experiences. I love turning complex problems into simple, elegant solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+
+<table>
+  <tr>
+    <td align="center" width="300">
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,msql,pouchdb" alt="Backend" /><br />
+      <b>Backend & DB</b>
+    </td>
+    <td align="center" width="300">
+      <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" alt="Frontend" /><br />
+      <b>Frontend</b>
+    </td>
+    <td align="center" width="300">
+      <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" alt="Tools" /><br />
+      <b>Tools & DevOps</b>
+    </td>
+  </tr>
+</table>
+
+**Specialized In:**
+*   🏗️ **Architecture:** Clean Architecture, Repository Pattern, N-Tier Architecture.
+*   💾 **Database:** Fluent API, Stored Procedures, Triggers, Database Design.
+*   🤖 **AI Integration:** RAG (Retrieval-Augmented Generation) using Semantic Kernel.
+
+---
+
+### 📈 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mariam-Ahmed-Khamis&show_icons=true&theme=neon&rank_icon=github&border_radius=10" alt="Mariam's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariam-Ahmed-Khamis&layout=compact&theme=neon&border_radius=10" alt="Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariam-Ahmed-Khamis&theme=neon&border_radius=10" alt="GitHub Streak" />
+</p>
+
+---
+
+---
+
+### 🌟 Featured Projects
+
+*   **🎯 [Clear View API](https://github.com/Mariam-Ahmed-Khamis/Clear_View_API):** 
+    An advanced Eye Health System API specialized in managing glaucoma and blindness-causing diseases. 
+    *   **Key Features:** Secure Authentication, Appointment Scheduling, and Full Doctor/User Management.
+    *   **Tech:** ASP.NET Core Web API, SQL Server, JWT for Security.
+
+*   **✈️ [Travel Booking System](https://github.com/Mariam-Ahmed-Khamis/Travel_Booking_System):** 
+    A comprehensive digital platform for efficient trip reservation management.
+    *   **Key Features:** Automated Payment handling, Cancellation logic, and real-time trip booking workflows.
+    *   **Tech:** C#, .NET Core, Entity Framework (Fluent API mapping).
+
+*   **📊 [ITI Examination System](https://github.com/Mariam-Ahmed-Khamis/Examination_System):** 
+    A robust database management system featuring role-based access control and high-performance SQL storage.
+    *   **Key Features:** Stored Procedures, Triggers, and optimized database schema for large-scale examination data.
+
+---
+
+---
+
+### 📫 Let's Connect!
+<p align="left">
+<a href="https://www.linkedin.com/in/mariam-ahmed-aa6b61228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://mariam-ahmed-portfolio.lovable.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="30" width="40" /></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/assets/reads.svg" alt="Views" />
