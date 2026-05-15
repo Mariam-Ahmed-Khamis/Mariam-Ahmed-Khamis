@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzZDI1YjM0YjM0YjM0YjM0YjM0YjM0YjM0YjM0YjM0YjM0JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/M9gbBd9nbJCZSM4T3V/giphy.gif" width="35"> Hi, I'm  Softwre Engineer Mariam Ahmed
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzZDI1YjM0YjM0YjM0YjM0YjM0YjM0YjM0YjM0YjM0YjM0JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/M9gbBd9nbJCZSM4T3V/giphy.gif" width="35"> Hi, I'm  Software Engineer Mariam Ahmed
 
 ### 🚀 Full Stack .NET Developer | LLM Prompt Engineering | Trainee at ITI
 Passionate about building scalable backend architectures, clean code, and interactive user experiences. I love turning complex problems into simple, elegant solutions.
